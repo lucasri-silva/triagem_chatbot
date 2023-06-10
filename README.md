@@ -1,6 +1,6 @@
 <html>
 <body>
-  <h1>Triage Chatbot</h1>
+  <h1>Triagem Chatbot</h1>
   <p>O Triagem Chatbot é um programa simples em Prolog projetado para fornecer níveis de triagem com base nos sintomas inseridos pelo usuário. Ele determina a gravidade dos sintomas e atribui um nível de triagem correspondente, o que pode ajudar a avaliar a urgência de atendimento médico necessário.</p>
 
   <h2>Como Funciona</h2>
